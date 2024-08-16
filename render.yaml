@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: Choco ONE
+    env: static
+    staticPublishPath: /dist
+    routes:
+      - src: /.*
+        dist: /index.html

@@ -1,0 +1,23 @@
+:root {
+  --swiper-theme-color: theme('colors.primary.400');
+}
+.swiper .swiper-button-disabled {
+  background-color: theme('colors.primary.300');
+}
+.swiper .swiper-button-disabled:hover {
+  background-color: theme('colors.primary.300');
+}
+.thumb-swiper {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+.thumb-swiper .swiper-slide {
+  opacity: 0.4;
+  transition: opacity ease-in-out 150ms;
+}
+.thumb-swiper .swiper-slide-thumb-active {
+  opacity: 1;
+}
+.thumb-swiper .swiper-scrollbar-drag {
+  background-color: theme('colors.primary.400');
+}
