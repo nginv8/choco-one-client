@@ -143,4 +143,4 @@ Choco ONE is a handmade chocolate shop. This repository contains the frontend im
 
 ### Deployment
 
-The project is deployed on Render: [Choco ONE](https://choco-one.onrender.com/).
+The project is deployed on: [choco-one.shop](https://choco-one.shop/).
